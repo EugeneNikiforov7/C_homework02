@@ -60,4 +60,4 @@ if (num2>max) max = num2;
 if (num3>max) max = num3;
 
 Console.WriteLine();
-Console.WriteLine($"Максимальным числом из {num1}, {num2}, {num3} является {max}");
+Console.WriteLine($"Максимальным числом из введенных ({num1}, {num2}, {num3}) является {max}");
